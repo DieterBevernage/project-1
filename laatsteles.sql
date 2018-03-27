@@ -1,5 +1,7 @@
 use AdventureWorksLT2014
 go
+
+--test--
 -- 1 --
 select UPPER(Name) as productname, ROUND(weight,0) as approxweight
 FROM SalesLT.Product dklfdjslkfjsdklmfjsdmklfdjskdfsjlk
