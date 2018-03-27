@@ -2,7 +2,7 @@ use AdventureWorksLT2014
 go
 -- 1 --
 select UPPER(Name) as productname, ROUND(weight,0) as approxweight
-FROM SalesLT.Product
+FROM SalesLT.Product dklfdjslkfjsdklmfjsdmklfdjskdfsjlk
 --2 --
 SELECT UPPER(Name) as productname, ROUND(weight,0) as approxweight,
 YEAR(SellStartDate) as SellStartYear, DATENAME(m,SellStartDate) as SellStartMonth
